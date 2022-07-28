@@ -1,0 +1,5 @@
+class NDA{
+  void dontTellAnyoneAnything(){
+
+  }
+}
